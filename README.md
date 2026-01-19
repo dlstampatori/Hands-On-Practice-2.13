@@ -1,2 +1,10 @@
-# Hands-On-Practice-2.13
-This is the Hands-On Practice assignment, Part 1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Anchor Example</title>
+<meta charset="utf-8">
+</head>
+<body>
+<a href="http://webdevfoundations.net">Web Development &amp; Design Foundations</a>
+</body>
+</html>
